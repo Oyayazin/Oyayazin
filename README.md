@@ -7,4 +7,4 @@ Meu nome é Matheus, mas podem me chamar de _Yaya_
 
   *Estou me desenvolvendo em:*
   - JavaScript
-  - Scrath 
+  - Scraft
